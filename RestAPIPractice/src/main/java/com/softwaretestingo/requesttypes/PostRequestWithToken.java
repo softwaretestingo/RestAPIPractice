@@ -12,7 +12,7 @@ public class PostRequestWithToken
 	{
 		JSONObject payload = new JSONObject();
 		payload.put("name", "SoftwareTestingO");
-		payload.put("email", "test1@gmail.com");
+		payload.put("email", "test991@gmail.com");
 		payload.put("gender", "female");
 		payload.put("status", "inactive");
 
